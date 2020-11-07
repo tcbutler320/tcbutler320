@@ -5,9 +5,3 @@ I’m a cyber risk consultant, mainframe developer, freelance security researche
 |:-|:-|:-|:- |:- |
 | 05/20/2020 | N/A | CWE-471: Modification of Assumed-Immutable Data | Hackerone | [tbutler.org](https://tbutler.org/assets/pdf/Butler,Tyler-MAID-Hinge-BBR.pdf)
 | 10/13/2020 | N/A | TimeClock Software 1.01 0(Authenticated) Time-Based SQL Injection | Exploit-DB | [exploit-db](https://www.exploit-db.com/exploits/48874)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tcbutler320&show_icons=true" alt="my github stats" width="420"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcbutler320&layout=compact" alt="my top languages" height="165">
-</p>
