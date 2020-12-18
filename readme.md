@@ -1,4 +1,4 @@
-I’m a cyber risk consultant, mainframe developer, freelance security researcher, and passionate open-source contributer. At Deloitte, I help modernize legacy IBM mainframe applications. In my own time, I conduct vulnerability research and compete in CTF competitions to better understand the cyber threat landscape. In my open source projects I prefer to focus on python, java, and Jekyll-based web development. 
+Cyber risk consultant, mainframe developer, freelance security researcher, and passionate open-source contributer. At Deloitte, I help modernize legacy IBM mainframe applications. In my own time, I conduct vulnerability research and compete in CTF competitions to better understand the cyber threat landscape. In my open source projects I prefer to focus on python, java, and Jekyll-based web development. 
 
 ## Bug Bounties and Disclosed Vulnerabilities 
 | Date | CVE | Title | Vendor |  Link
