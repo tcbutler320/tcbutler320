@@ -1,5 +1,19 @@
 Cyber risk consultant, mainframe developer, freelance security researcher, and passionate open-source contributer. At Deloitte, I help modernize legacy IBM mainframe applications. In my own time, I conduct vulnerability research and compete in CTF competitions to better understand the cyber threat landscape. In my open source projects I prefer to focus on python, java, and Jekyll-based web development. 
 
+<div align="center">
+  <a aria-label="Github" href="https://github.com/tcbutler320">
+    <img src="https://github.com/not-matthias/not-matthias/blob/master/assets/github.svg" />
+  </a>
+
+  <a aria-label="Twitter" href="https://twitter.com/tbutler0x90">
+    <img src="https://github.com/not-matthias/not-matthias/blob/master/assets/twitter.svg" />
+  </a>
+
+  <a aria-label="Blog" href="https://tbutler.org">
+    <img src="https://github.com/not-matthias/not-matthias/blob/master/assets/globe.svg" />
+  </a>
+</div>
+
 ## Bug Bounties and Disclosed Vulnerabilities 
 | Date | CVE | Title | Vendor |  Link
 |:-|:-|:-|:- |:- |
