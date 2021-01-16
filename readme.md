@@ -2,7 +2,7 @@ Cyber risk consultant, mainframe developer, freelance security researcher, and p
 
 <div align="center">
   <a aria-label="Github" href="https://github.com/tcbutler320">
-    <img src="https://github.com/tcbutler320/tcbutler320/blob/master/assets/github-square-brands.svg" />
+    <img src="https://github.com/tcbutler320/tcbutler320/blob/master/assets/github-square-brands.svg" width="25" height="25/>
   </a>
 
   <a aria-label="Twitter" href="https://twitter.com/tbutler0x90">
