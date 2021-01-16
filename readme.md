@@ -2,15 +2,15 @@ Cyber risk consultant, mainframe developer, freelance security researcher, and p
 
 <div align="center">
   <a aria-label="Github" href="https://github.com/tcbutler320">
-    <img src="https://github.com/not-matthias/not-matthias/blob/master/assets/github.svg" />
+    <img src="https://github.com/tcbutler320/tcbutler320/blob/master/assets/github-square-brands.svg" />
   </a>
 
   <a aria-label="Twitter" href="https://twitter.com/tbutler0x90">
-    <img src="https://github.com/not-matthias/not-matthias/blob/master/assets/twitter.svg" />
+    <img src="https://github.com/tcbutler320/tcbutler320/blob/master/assets/twitter-square-brands.svg" />
   </a>
 
   <a aria-label="Blog" href="https://tbutler.org">
-    <img src="https://github.com/not-matthias/not-matthias/blob/master/assets/globe.svg" />
+    <img src="https://github.com/tcbutler320/tcbutler320/blob/master/assets/github-square-brands.svg" />
   </a>
 </div>
 
