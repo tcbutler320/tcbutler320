@@ -10,15 +10,11 @@ Cyber risk consultant, mainframe developer, freelance security researcher, and p
   </a>
   
   <a aria-label="Linkedin" href="https://www.linkedin.com/in/tyler-b-a700a1aa/">
-    <img src="https://github.com/tcbutler320/tcbutler320/blob/master/assets/linkedin-square-brands.svg" width="25" height="25"/>
+    <img src="https://github.com/tcbutler320/tcbutler320/blob/master/assets/linkedin-brands.svg" width="25" height="25"/>
   </a>
-  
-  <a aria-label="Keybase" href="https://www.linkedin.com/in/tyler-b-a700a1aa/">
-    <img src="https://github.com/tcbutler320/tcbutler320/blob/master/assets/keybase-square-brands.svg" width="25" height="25"/>
-  </a>
-
+ 
   <a aria-label="Blog" href="https://tbutler.org">
-    <img src="https://github.com/tcbutler320/tcbutler320/blob/master/assets/github-square-brands.svg" width="25" height="25"/>
+    <img src="https://github.com/tcbutler320/tcbutler320/blob/master/assets/external-link-square-alt-solid.svg" width="25" height="25"/>
   </a>
 </div>
 
