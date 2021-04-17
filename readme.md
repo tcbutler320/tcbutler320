@@ -5,4 +5,5 @@ Penetration Tester, cyber risk consultant,freelance security researcher, and pas
 |:-|:-|:-|:- |:- |
 | 04/21/2021 | N/A | Undisclosed Vulnerability on Blockfi via HackerOne | Hackerone | [hackerone](https://hackerone.com/tcbutler320?type=user)
 | 05/20/2020 | N/A | CWE-471: Modification of Assumed-Immutable Data | Hackerone | [tbutler.org](https://tbutler.org/assets/pdf/Butler,Tyler-MAID-Hinge-BBR.pdf)
+| 12/08/2020 | N/A | Considering the Plausibility of IDN Homograph Attacks on iOS | Apple Product Security | [tbutler.org](https://tbutler.org/assets/pdf/Butler,Tyler-Considering-the-Plausibility-of-IDN-Homograph-Attacks-on-iOS.pdf)
 | 10/13/2020 | N/A | TimeClock Software 1.01 0(Authenticated) Time-Based SQL Injection | Exploit-DB | [exploit-db](https://www.exploit-db.com/exploits/48874)
