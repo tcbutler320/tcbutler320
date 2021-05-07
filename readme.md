@@ -2,6 +2,8 @@ Penetration Tester, cyber risk consultant,freelance security researcher, and pas
 ### Bug Bounties and Disclosed Vulnerabilities  👾
 | Date | CVE | Title | Vendor |  Link | Bounty |
 |---	|---	|---	|---	|---	|---	|
+| 05/03/2021 | N/A | Timeclock 1.04 - Time and Boolean Based Blind SQL Injection| PHP Timeclock | [Exploit-DB](https://www.exploit-db.com/exploits/49849) | N/A |
+| 05/01/2021 | N/A | Cross Site Scripting (XSS) via Word History | monkeytype.com | [GitHub](https://github.com/Miodec/monkeytype/issues/1348) | N/A |
 | 04/21/2021 | N/A | Undisclosed Vulnerability on Blockfi via HackerOne | Hackerone | [hackerone](https://hackerone.com/tcbutler320?type=user) | $1,000 |
 | 05/20/2020 | N/A | CWE-471: Modification of Assumed-Immutable Data | Hackerone | [tbutler.org](https://tbutler.org/assets/pdf/Butler,Tyler-MAID-Hinge-BBR.pdf) | $250 |
 | 10/13/2020 | N/A | TimeClock Software 1.01 0(Authenticated) Time-Based SQL Injection | Exploit-DB | [exploit-db](https://www.exploit-db.com/exploits/48874) | N/A |
