@@ -5,6 +5,8 @@ I'm a penetration Tester, cyber risk consultant,freelance security researcher, a
 ### Disclosed Security Vulnerabilities
 | Date | CVE | Title | Method | Bounty |
 |---	|---	|---	|---	|---	|
+| 05/11/2021 | TBD | **DISCLOSURE PENDING** | N/A | N/A |
+| 05/10/2021 | TBD | **DISCLOSURE PENDING** | N/A | TBD |
 | 05/03/2021 | N/A | [PHP Timeclock 1.04 - 'Multiple' Cross Site Scripting (XSS)](https://www.exploit-db.com/exploits/49853)| Exploit-DB | N/A |
 | 05/03/2021 | N/A | [PHP Timeclock 1.04 - Time and Boolean Based Blind SQL Injection](https://www.exploit-db.com/exploits/49849) | Exploit-DB | N/A |
 | 05/01/2021 | N/A | [Cross Site Scripting (XSS) via Word History](https://github.com/Miodec/monkeytype/issues/1348) | GitHub | N/A |
