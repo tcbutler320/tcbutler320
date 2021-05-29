@@ -5,6 +5,7 @@ I'm a penetration Tester, cyber risk consultant,freelance security researcher, a
 ### Disclosed Security Vulnerabilities
 | Date | CVE | Title | Method | Bounty |
 |---	|---	|---	|---	|---	|
+| 05/28/2021 | TBD | **DISCLOSURE PENDING** | N/A | N/A |
 | 05/27/2021 | N/A | [MonkeyType.com - Stored Cross-Site Scripting (XSS) via Tribe Chat](https://github.com/Miodec/monkeytype/issues/1476) | GitHub| N/A |
 | 05/11/2021 | TBD | **DISCLOSURE PENDING** | N/A | N/A |
 | 05/10/2021 | **REQUESTED** | **DISCLOSURE PENDING** | N/A | TBD |
