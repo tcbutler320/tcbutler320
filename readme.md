@@ -1,12 +1,12 @@
 ### 📡 Hi, I'm Tyler
 
-I'm an independant Security Researcher with industry experience in penetration testing, cyber risk consulting, and software engineering. On GitHub, I share my vulnerability research and proof of concept exploits, as well small projects and learning snippets. For more information on my projects or to read my blog, check out my website [tbutler.org](https://tbutler.org/).
+I'm an independant Security Researcher with industry experience in penetration testing, cyber risk consulting, and software engineering. On GitHub, I share my vulnerability research and proof of concept exploits, small projects and learning snippets. For more information on my projects or to read my blog, check out my website [tbutler.org](https://tbutler.org/).
 
 #### *Disclosed Security Vulnerabilities*
 | Date | CVE | Title | Impact | Bounty |
 |---	|---	|---	|---	|---	|
 | 05/2021 | TBD | **DISCLOSURE PENDING** | Medium | N/A |
-| 052021 | N/A | [MonkeyType.com - Stored Cross-Site Scripting (XSS) via Tribe Chat](https://github.com/Miodec/monkeytype/issues/1476) | High| N/A |
+| 05/2021 | N/A | [MonkeyType.com - Stored Cross-Site Scripting (XSS) via Tribe Chat](https://github.com/Miodec/monkeytype/issues/1476) | High| N/A |
 | 05/2021 | TBD | **DISCLOSURE PENDING** | Medium | N/A |
 | 05/2021 | **REQUESTED** | **DISCLOSURE PENDING** | Medium | TBD |
 | 05/2021 | N/A | [PHP Timeclock 1.04 - 'Multiple' Cross Site Scripting (XSS)](https://www.exploit-db.com/exploits/49853)| High | N/A |
