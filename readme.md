@@ -1,8 +1,8 @@
-## 👋 Hi, I'm Tyler
+### 📡 Hi, I'm Tyler
 
 I'm an independant Security Researcher with industry experience in penetration testing, cyber risk consulting, and software engineering. On GitHub, I share my vulnerability research and proof of concept exploits, as well as novel web application projects and learning snippets.  
 
-### Disclosed Security Vulnerabilities
+#### *Disclosed Security Vulnerabilities*
 | Date | CVE | Title | Method | Bounty |
 |---	|---	|---	|---	|---	|
 | 05/28/2021 | TBD | **DISCLOSURE PENDING** | N/A | N/A |
