@@ -1,6 +1,6 @@
 ### 📡 Hi, I'm Tyler
 
-I'm an independant Security Researcher with industry experience in penetration testing, cyber risk consulting, and software engineering. On GitHub, I share my vulnerability research and proof of concept exploits, as well as novel web application projects and learning snippets. For more information on my projects or to read my blog, check out my website [tbutler.org](https://tbutler.org/).
+I'm an independant Security Researcher with industry experience in penetration testing, cyber risk consulting, and software engineering. On GitHub, I share my vulnerability research and proof of concept exploits, as well small projects and learning snippets. For more information on my projects or to read my blog, check out my website [tbutler.org](https://tbutler.org/).
 
 #### *Disclosed Security Vulnerabilities*
 | Date | CVE | Title | Impact | Bounty |
