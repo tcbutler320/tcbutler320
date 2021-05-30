@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Tyler
 
-I'm a penetration Tester, cyber risk consultant,freelance security researcher, and passionate open-source developer. At Deloitte, I serve as a penetration tester in the adversarial simulation market offering. In my own time, I conduct freelance vulnerability research, engage in bug bounty programs, and compete in CTF competitions. Read more on my personal website [tbutler.org](https://tbutler.org).  
+I'm an independant Security Researcher with industry experience in penetration testing, cyber risk consulting, and software engineering. On GitHub, I share my vulnerability research and proof of concept exploits, as well as novel web application projects and learning snippets.  
 
 ### Disclosed Security Vulnerabilities
 | Date | CVE | Title | Method | Bounty |
