@@ -6,6 +6,7 @@ I'm an independant Security Researcher with industry experience in penetration t
 | Date | CVE | Title | Impact | Bounty |
 |---	|---	|---	|---	|---	|
 | 05/2021 | TBD | **DISCLOSURE PENDING** | Medium | N/A |
+| 05/2021 | TBD | **DISCLOSURE PENDING** | Medium | N/A |
 | 05/2021 | N/A | [MonkeyType.com - Stored Cross-Site Scripting (XSS) via Tribe Chat](https://github.com/Miodec/monkeytype/issues/1476) | High| N/A |
 | 05/2021 | TBD | **DISCLOSURE PENDING** | Medium | N/A |
 | 05/2021 | **REQUESTED** | **DISCLOSURE PENDING** | Medium | TBD |
