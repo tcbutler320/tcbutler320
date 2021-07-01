@@ -17,8 +17,11 @@ I'm an independant Security Researcher with industry experience in penetration t
 
 #### My Exploit-DB Proof of Concept Exploits. 
 
+> Author  
 +  [PHP Timeclock 1.04 - 'Multiple' Cross Site Scripting (XSS)](https://www.exploit-db.com/exploits/49853) 
 +  [PHP Timeclock 1.04 - Time and Boolean Based Blind SQL Injection](https://www.exploit-db.com/exploits/49849)
+> Co-Author  
++  [TimeClock Software 1.01 0 - (Authenticated) Time-Based SQL Injection](https://www.exploit-db.com/exploits/48874)
 
 
 
