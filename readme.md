@@ -1,5 +1,3 @@
-### 📡 Hi, I'm Tyler
-
 I'm an independant Security Researcher with industry experience in penetration testing, cyber risk consulting, and software engineering. On GitHub, I share my vulnerability research and proof of concept exploits. For more information check out my website [tbutler.org](https://tbutler.org/). 
 
 #### My Top Disclosed Vulnerabilities 
