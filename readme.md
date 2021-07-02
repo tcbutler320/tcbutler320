@@ -16,6 +16,7 @@ I'm an independant Security Researcher with industry experience in penetration t
 #### My Exploit-DB Proof of Concept Exploits. 
 
 > Author  
++  [AKCP sensorProbe SPX476 - 'Multiple' Cross-Site Scripting (XSS)](https://www.exploit-db.com/exploits/50080)
 +  [PHP Timeclock 1.04 - 'Multiple' Cross Site Scripting (XSS)](https://www.exploit-db.com/exploits/49853) 
 +  [PHP Timeclock 1.04 - Time and Boolean Based Blind SQL Injection](https://www.exploit-db.com/exploits/49849)
 > Co-Author  
