@@ -1,4 +1,4 @@
-I'm an independant Security Researcher with industry experience in penetration testing, cyber risk consulting, and software engineering. On GitHub, I share my vulnerability research and proof of concept exploits. For more information check out my website [tbutler.org](https://tbutler.org/), or my prototype site currently in development [dev.tbutler.org](http://dev.tbutler.org/).
+I'm an independant Security Researcher with industry experience in penetration testing, cyber risk consulting, and software engineering. On GitHub, I share my vulnerability research and proof of concept exploits. For more information check out my website [tbutler.org](https://tbutler.org/).
 
 #### My Top Disclosed Vulnerabilities 
 | Date | CVE | Title | Impact | Bounty |
