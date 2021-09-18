@@ -18,7 +18,8 @@ Tyler gained his undergraduate degree in Security and Risk Analysis from The Pen
 #### My Exploit-DB Proof of Concept Exploits. 
 
 > Author  
-+  [AKCP sensorProbe SPX476 - 'Multiple' Cross-Site Scripting (XSS)](https://www.exploit-db.com/exploits/50080)
++ [CVE-2021-3441 HP OfficeJet 4630/7110 MYM1FN2025AR/2117A - Stored Cross-Site Scripting (XSS)](https://www.exploit-db.com/exploits/50227)
++  [CVE-2021-3595 AKCP sensorProbe SPX476 - 'Multiple' Cross-Site Scripting (XSS)](https://www.exploit-db.com/exploits/50080)
 +  [PHP Timeclock 1.04 - 'Multiple' Cross Site Scripting (XSS)](https://www.exploit-db.com/exploits/49853) 
 +  [PHP Timeclock 1.04 - Time and Boolean Based Blind SQL Injection](https://www.exploit-db.com/exploits/49849)
 > Co-Author  
