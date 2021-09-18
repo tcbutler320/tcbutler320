@@ -1,4 +1,4 @@
-Tyler gained his undergraduate degree in Security and Risk Analysis from The Pennsylvania State University and started his cyber security career at Deloitte where he served clients as a penetration tester and red team operator. Tyler currently holds the eWPT and eJPT certifications, is credited with several CVE's including CVE-2021-35956 and CVE-2021-3441, and was nominated to the Motorola Solutions Bug Bounty Hall of Fame.
+Tyler gained his undergraduate degree in Security and Risk Analysis from The Pennsylvania State University and started his cyber security career at Deloitte where he served clients as a penetration tester and red team operator. Tyler currently holds the eWPT and eJPT certifications, is credited with several CVE's including CVE-2021-35956, CVE-2021-344, and CVE-2021-38701, and was nominated to the Motorola Solutions Bug Bounty Hall of Fame.
 
 #### My Top Disclosed Vulnerabilities 
 | Date | CVE | Title | Impact | Bounty |
