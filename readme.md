@@ -1,4 +1,4 @@
-I'm an independant Security Researcher with industry experience in penetration testing, cyber risk consulting, and software engineering. On GitHub, I share my vulnerability research and proof of concept exploits. For more information check out my website [tbutler.org](https://tbutler.org/).
+Tyler gained his undergraduate degree in Security and Risk Analysis from The Pennsylvania State University and started his cyber security career at Deloitte where he served clients as a penetration tester and red team operator. Tyler currently holds the eWPT and eJPT certifications, is credited with several CVE's including CVE-2021-35956 and CVE-2021-3441, and was nominated to the Motorola Solutions Bug Bounty Hall of Fame.
 
 #### My Top Disclosed Vulnerabilities 
 | Date | CVE | Title | Impact | Bounty |
