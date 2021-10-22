@@ -3,7 +3,7 @@ Tyler gained his undergraduate degree in Security and Risk Analysis from The Pen
 #### My Top Disclosed Vulnerabilities 
 | Date | CVE | Title | Impact | Bounty |
 |---	|---	|---	|---	|---	|
-| 09/2021 | CVE-2021-38701| To Be Released| TBR | $250 |
+| 09/2021 | CVE-2021-38701| [Avigilon Presence Detector, H4A Box/Fisheye, Dome, Bullet, Multisenso Camera Authenticated Stored XSS](https://support.avigilon.com/s/feed/0D54y00006l9eCMCAY?language=en_US)  | TBR | $250 |
 | 08/2021 | CVE-2021-3441 | [HP Officejet - 'AirPrint' Cross Site Scripting (XSS)](https://tbutler.org/2021/04/29/hp-officejet-4630)| Medium | N/A |
 | 06/2021 | CVE-2021-35956 | [AKCP sensorProbe - 'Multiple' Cross Site Scripting (XSS)](https://tbutler.org/2021/06/28/cve-2021-35956)| Medium | N/A |
 | 05/2021 | N/A | [Authentication Bypass by Spoofing in Miodec/monkeytype](https://huntr.dev/bounties/1-other-Miodec/monkeytype/)| Medium | $40 |
