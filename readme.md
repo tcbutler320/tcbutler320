@@ -2,7 +2,7 @@
 
 I'm a penetration tester and red teamer, security researcher, and open source developer. I gained my undergraduate degree in Security and Risk Analysis from The Pennsylvania State University and currently secure client networks as a penetration tester at Deloitte. I hold the eWPT and eJPT certifications, and am workings towards my OSCP. My freelance research includes 3 CVE's ([CVE-2021-35956](https://nvd.nist.gov/vuln/detail/CVE-2021-35956), [CVE-2021-3441](https://nvd.nist.gov/vuln/detail/CVE-2021-3441),[CVE-2021-38701](https://nvd.nist.gov/vuln/detail/CVE-2021-38701)) and a nomination to the [Motorola Solutions Bug Bounty Hall of Fame](https://www.motorolasolutions.com/en_us/about/security-vulnerability/hall-of-fame.html).
 
-#### My Top Disclosed Vulnerabilities 
+__My Top Disclosed Vulnerabilities__  
 | Date | CVE | Title |
 |---	|---	|---	|
 | 09/2021 | CVE-2021-38701| [Avigilon Presence Detector, H4A Box/Fisheye, Dome, Bullet, Multisenso Camera Authenticated Stored XSS](https://support.avigilon.com/s/feed/0D54y00006l9eCMCAY?language=en_US)  | 
