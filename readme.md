@@ -1,18 +1,18 @@
-### About Me
+__About Me__
 
 I'm a penetration tester and red teamer, security researcher, and open source developer. I gained my undergraduate degree in Security and Risk Analysis from The Pennsylvania State University and currently secure client networks as a penetration tester at Deloitte. I hold the eWPT and eJPT certifications, and am workings towards my OSCP. My freelance research includes 3 CVE's ([CVE-2021-35956](https://nvd.nist.gov/vuln/detail/CVE-2021-35956), [CVE-2021-3441](https://nvd.nist.gov/vuln/detail/CVE-2021-3441),[CVE-2021-38701](https://nvd.nist.gov/vuln/detail/CVE-2021-38701)) and a nomination to the [Motorola Solutions Bug Bounty Hall of Fame](https://www.motorolasolutions.com/en_us/about/security-vulnerability/hall-of-fame.html).
 
-<p align="center">
-  <b>Featured Security Research</b>
-</p>
+__Featured Security Research__
 
 | Date | CVE | Title |
-|---	|---	| ---:|
+| :---	| :---:	| :---|
 | 09/2021 | CVE-2021-38701| [Avigilon - Multiple Devices Authenticated Stored XSS](https://support.avigilon.com/s/feed/0D54y00006l9eCMCAY?language=en_US)  | 
 | 08/2021 | CVE-2021-3441 | [HP Officejet - 'AirPrint' Unauthenticated Stored XSS](https://tbutler.org/2021/04/29/hp-officejet-4630)|
 | 06/2021 | CVE-2021-35956 | [AKCP sensorProbe - 'Multiple' Authenticated XSS](https://tbutler.org/2021/06/28/cve-2021-35956)| 
 | 05/2021 | N/A | [PHP Timeclock 1.04 - 'Multiple' XSS](https://www.exploit-db.com/exploits/49853)| 
 | 05/2021 | N/A | [PHP Timeclock 1.04 - Time & Boolean Based Blind SQL Injection](https://www.exploit-db.com/exploits/49849) |   
+
+<br>
 
 <details>
 <summary>Exploit-DB Proof of Concept Exploits</summary>
