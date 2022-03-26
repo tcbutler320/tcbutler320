@@ -1,6 +1,6 @@
 __About Me__
 
-I'm a penetration tester and red teamer, security researcher, and open source developer. I gained my undergraduate degree in Security and Risk Analysis from The Pennsylvania State University and currently secure client networks as a penetration tester at Deloitte. I hold the eWPT and eJPT certifications, and am working towards my OSCP. My freelance research includes 3 CVE's ([CVE-2021-35956](https://nvd.nist.gov/vuln/detail/CVE-2021-35956), [CVE-2021-3441](https://nvd.nist.gov/vuln/detail/CVE-2021-3441), [CVE-2021-38701](https://nvd.nist.gov/vuln/detail/CVE-2021-38701)) and a nomination to the [Motorola Solutions Bug Bounty Hall of Fame](https://www.motorolasolutions.com/en_us/about/security-vulnerability/hall-of-fame.html).
+I'm a graduate student at Georgetown's Walsh School of Foreign Service, focused on Security, Technology, and Eastern Europe. In my professional life I'm a penetration tester and red teamer at Deloitte, and spend my time doing independent security research and maintaining open source projects. I hold the eWPT and eJPT certifications, and am working towards my OSCP. My freelance research includes 3 CVE's ([CVE-2021-35956](https://nvd.nist.gov/vuln/detail/CVE-2021-35956), [CVE-2021-3441](https://nvd.nist.gov/vuln/detail/CVE-2021-3441), [CVE-2021-38701](https://nvd.nist.gov/vuln/detail/CVE-2021-38701)) and a nomination to the [Motorola Solutions Bug Bounty Hall of Fame](https://www.motorolasolutions.com/en_us/about/security-vulnerability/hall-of-fame.html).
 
 __Featured Security Research__
 
