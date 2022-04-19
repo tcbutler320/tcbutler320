@@ -1,6 +1,6 @@
-__About Me__
+## 👋 About Me
 
-I'm a graduate student at Georgetown's Walsh School of Foreign Service, focused on Security, Technology, and Eastern Europe. In my professional life I'm a penetration tester and red teamer at Deloitte, and spend my free time doing independent security research and maintaining open source projects. I hold the eWPT and eJPT certifications, and am working towards my OSCP. My freelance research includes 3 CVE's ([CVE-2021-35956](https://nvd.nist.gov/vuln/detail/CVE-2021-35956), [CVE-2021-3441](https://nvd.nist.gov/vuln/detail/CVE-2021-3441), [CVE-2021-38701](https://nvd.nist.gov/vuln/detail/CVE-2021-38701)) and a nomination to the [Motorola Solutions Bug Bounty Hall of Fame](https://www.motorolasolutions.com/en_us/about/security-vulnerability/hall-of-fame.html).
+I'm a penetration tester and red teamer at Deloitte, workings towards my Master's degree in Security Studies at <a href="https://css.georgetown.edu/">Georgetown's Walsh School of Foreign Service</a>, focused on Technology, Security, and Eastern Europe. In my free time I conduct independent security research on open-source and embedded devices, and maintain open source projects on red team tools. I hold the eWPT and eJPT certifications, and am working towards my OSCP. 
 
 __Featured Security Research__
 
@@ -9,7 +9,6 @@ __Featured Security Research__
 | 09/2021 | CVE-2021-38701| [Avigilon - Multiple Devices Authenticated Stored XSS](https://support.avigilon.com/s/feed/0D54y00006l9eCMCAY?language=en_US)  | 
 | 08/2021 | CVE-2021-3441 | [HP Officejet - 'AirPrint' Unauthenticated Stored XSS](https://tbutler.org/2021/04/29/hp-officejet-4630)|
 | 06/2021 | CVE-2021-35956 | [AKCP sensorProbe - 'Multiple' Authenticated XSS](https://tbutler.org/2021/06/28/cve-2021-35956)| 
-| 05/2021 | N/A | [PHP Timeclock 1.04 - 'Multiple' XSS](https://www.exploit-db.com/exploits/49853)| 
 | 05/2021 | N/A | [PHP Timeclock 1.04 - Time & Boolean Based Blind SQL Injection](https://www.exploit-db.com/exploits/49849) |   
 
 <br>
