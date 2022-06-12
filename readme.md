@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I'm a penetration tester and red teamer, workings towards a Master's degree in Security Studies at <a href="https://css.georgetown.edu/">Georgetown's Walsh School of Foreign Service</a>, focused on Technology, Security, and Eastern Europe. In my free time I conduct independent security research on open-source and embedded devices, and maintain open source projects on red team tools. I hold the eWPT and eJPT certifications, and am working towards my OSCP. 
+I'm a graduate student at Georgetown University in the Security Studies Program (SSP) at the Walsh School of Foreign Service (SFS). My academic interests are on the intersection of emerging technology and national security, with a specific focus on state-sponsored cyber network operations and cyber operations policy. In my free time, I develop my vulnerability discovery and exploit development skills through freelance security research and bug bounty programs. Since 2018, I've engaged dozens of software vendors in responsible disclosures for vulnerabilities in open-source projects, web applications, IoT and embedded devices, culminating in being credited with discovery of several vulnerabilities.
 
 __Featured Security Research__
 
