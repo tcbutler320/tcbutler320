@@ -6,6 +6,7 @@ __Featured Security Research__
 
 | Date | CVE | Title |
 | :---	| :---:	| :---|
+| 11/2024 | Pending| [Sensaphone Web600 Monitoring System](https://github.com/tcbutler320/Sensaphone-WEB600-XSS) | 
 | 09/2021 | CVE-2021-38701| [Avigilon - Multiple Devices Authenticated Stored XSS](https://support.avigilon.com/s/feed/0D54y00006l9eCMCAY?language=en_US)  | 
 | 08/2021 | CVE-2021-3441 | [HP Officejet - 'AirPrint' Unauthenticated Stored XSS](https://tbutler.org/2021/04/29/hp-officejet-4630)|
 | 06/2021 | CVE-2021-35956 | [AKCP sensorProbe - 'Multiple' Authenticated XSS](https://tbutler.org/2021/06/28/cve-2021-35956)| 
