@@ -9,6 +9,7 @@ __Featured Security Research__
 | 07/2025 | TBA | TBA | 
 | 06/2025 | TBA | TBA | 
 | 11/2024 | CVE-2024-55040 | [Sensaphone Web600 Monitoring System](https://github.com/tcbutler320/Sensaphone-WEB600-XSS) | 
+| 02/2023 | CVE-2021-37373, CVE-2021-37374, CVE-2021-37375, CVE-2021-37376, CVE-2021-37377, CVE-2021-37378, CVE-2021-37379 | [Teradek Cross Site Scripting (XSS) vulnerability in Multiple Video Encoders](https://www.cve.org/CVERecord/SearchResults?query=teradek) |
 | 09/2021 | CVE-2021-38701| [Avigilon - Multiple Devices Authenticated Stored XSS](https://support.avigilon.com/s/feed/0D54y00006l9eCMCAY?language=en_US)  | 
 | 08/2021 | CVE-2021-3441 | [HP Officejet - 'AirPrint' Unauthenticated Stored XSS](https://support.hp.com/ee-en/document/ish_4433829-4433857-16/hpsbpi03742)|
 | 06/2021 | CVE-2021-35956 | [AKCP sensorProbe - 'Multiple' Authenticated XSS](https://tylercbutler.com/blog/2021/06/cve-2021-35956)| 
